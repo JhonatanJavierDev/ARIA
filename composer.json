@@ -1,0 +1,17 @@
+{
+    "name": "jhonatanjavierdev/ariarouter",
+    "description": "A lightweight PHP router library",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JhonatanJavierDev\\AriaRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhonatan Javier",
+            "email": "jhonatan.corella@icloud.com"
+        }
+    ]
+}
