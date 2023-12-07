@@ -2,9 +2,9 @@
     "name": "jhonatanjavierdev/ariarouter",
     "description": "A lightweight PHP router library",
     "type": "library",
-	"require": {
-		"php": ">=5.1.0"
-	},
+    "require": {
+        "php": ">=5.1.0"
+    },
     "autoload": {
         "psr-4": {
             "JhonatanJavierDev\\AriaRouter\\": "src/"
@@ -15,8 +15,5 @@
             "name": "Jhonatan Javier",
             "email": "jhonatan.corella@icloud.com"
         }
-    ],
-    "version": "1.1.0-beta",
-    "minimum-stability": "beta",
-    "prefer-stable": true
+    ]
 }
