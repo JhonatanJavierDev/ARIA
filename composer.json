@@ -15,5 +15,6 @@
             "name": "Jhonatan Javier",
             "email": "jhonatan.corella@icloud.com"
         }
-    ]
+    ],
+    "license": "GPL-3.0"  // Cambia "MIT" a "GPL-3.0" para reflejar la licencia que estás utilizando
 }
