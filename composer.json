@@ -2,10 +2,17 @@
     "name": "jhonatanjavierdev/ariarouter",
     "description": "A lightweight PHP router library",
     "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jhonatanjavierdev/ariarouter"
+        }
+    ],
     "require": {
         "php": ">=5.1.0",
-        "jhonatanjavierdev/ariarouter": "1.0.*"
+        "jhonatanjavierdev/ariarouter": "dev-master"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "JhonatanJavierDev\\AriaRouter\\": "src/"
